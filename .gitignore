@@ -12,3 +12,8 @@
 
 # Backup files
 *.bak
+models/UiAA-1.0-36B.gguf
+models/UiAA-1.0-36B.gguf
+models/templates/
+models/UiAA-1.0-36B.gguf
+models/templates/
